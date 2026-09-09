@@ -26,58 +26,57 @@ Ha sido diseñado específicamente para captar la atención de:
 > 3. Etiqueta a mentores, comunidades de IA o líderes de opinión relevantes en tu red.
 
 ```text
-¿Por qué el 80% de los proyectos de Customer Segmentation y CLV nunca llegan a producción o cometen errores matemáticos graves en el intento? 🤔
+¿Por qué el 80% de los proyectos de Customer Segmentation y CLV fallan al pasar a producción? 🤔
 
-Durante meses analizando implementaciones en la industria de e-commerce, noté dos patrones recurrentes:
-1️⃣ Modelos de juguete en Jupyter Notebooks que no consideran latencia, tipado ni serialización.
-2️⃣ Errores metodológicos de bulto: aplicar K-Means euclídeo directamente sobre variables de gasto monetario con colas pesadas (asimetría g1 > 2.4), dejando que un puñado de outliers distorsione todos los centroides.
+En la industria vemos dos errores habituales:
+1️⃣ Modelos en Jupyter sin tipado, latencia controlada ni serialización.
+2️⃣ Aplicar K-Means euclídeo sobre variables de gasto con colas pesadas (asimetría g1 > 2.4), dejando que los outliers deformen los centroides.
 
-Para demostrar cómo se aborda este reto con rigor Senior y arquitectura de grado empresarial, diseñé y desplegué el:
-🛍️ AI-Driven Customer Insights, Survival Lifetime Value (CLV) & Recommendation Engine.
+Para demostrar cómo abordarlo con rigor Senior y arquitectura Cloud-Native, diseñé y liberé en GitHub el:
+🛍️ AI-Driven Customer Insights, Survival CLV & Recommendation Engine.
 
-Benchmarkeado contra el dataset real de Amazon Product Reviews (McAuley / UCSD RecSysDatasets), este sistema sustituye las reglas comerciales heurísticas por una plataforma Cloud-Native de decisión en tiempo real:
+Entrenado con el dataset de Amazon Product Reviews (McAuley / UCSD), sustituye heurísticas por analítica prescriptiva en tiempo real:
 
-🏛️ LOS 4 PILARES TÉCNICOS DEL SISTEMA:
+🏛️ 5 PILARES TÉCNICOS:
 
-1. 📐 INGENIERÍA CONDUCTUAL & DIAGNÓSTICO ESTADÍSTICO
-- Matriz RFM (Recency, Frequency, Monetary, Tenure) sobre más de 28,000 interacciones.
-- Estabilización de varianza obligatoria: compresión no lineal ln(1 + x) previa al escalado Z-Score.
-- Cuantificación formal de concentración de riqueza: Coeficiente de Gini (G ≈ 0.62) y Curva de Lorenz, verificando que el 20% superior genera el 74.2% del volumen total de ventas.
-- Contrastes no paramétricos de Kruskal-Wallis (H = 1,428.5, p < 10^-12) y Chi-cuadrado.
+1. 📐 INGENIERÍA & DIAGNÓSTICO ESTADÍSTICO
+• Matriz RFM (Recency, Frequency, Monetary, Tenure) sobre 28k+ registros.
+• Estabilización de varianza: ln(1 + x) previo al escalado Z-Score.
+• Concentración de riqueza: Curva de Lorenz y Gini (G ≈ 0.62; top 20% genera el 74.2% del valor).
+• Contrastes no paramétricos de Kruskal-Wallis (p < 10^-12) y Chi-cuadrado.
 
-2. 🧩 APRENDIZAJE NO SUPERVISADO & GEOMETRÍA 3D
-- Reducción ortogonal con PCA en 3D (PC1, PC2, PC3) preservando más del 85% de la varianza.
-- Partición global convexa con K-Means (k=4) combinada con auditoría de densidad y detección de outliers mediante DBSCAN.
-- Cálculo explícito de centroides 3D y vector de distancia euclídea individual de cada cliente a su arquetipo.
+2. 🧩 CLUSTERING & GEOMETRÍA 3D
+• Reducción ortogonal PCA 3D preservando >85% de varianza.
+• Partición K-Means (k=4) auditada con densidad DBSCAN para aislar anomalías.
+• Centroides 3D explícitos y vector euclídeo cliente-arquetipo.
 
-3. 📈 CLV RESIDUAL & SUPERVIVENCIA NO CONTRACTUAL (BTYD)
-- Estimación de probabilidad de vida del cliente P(Active) basada en cadencias Buy-Till-You-Die.
-- Regresión GLM con familia Poisson y enlace logarítmico para modelar órdenes futuras, erradicando predicciones negativas absurdas del OLS tradicional.
-- Descuento financiero por Valor Presente Neto (NPV).
+3. 📈 SUPERVIVENCIA BTYD & CLV RESIDUAL
+• Probabilidad P(Active) con cadencias Buy-Till-You-Die.
+• GLM Poisson con enlace logarítmico (cero predicciones negativas absurdas).
+• Descuento financiero por Valor Presente Neto (NPV).
 
-4. 🛒 MOTOR DE RECOMENDACIÓN HÍBRIDO DUAL-PATH
-- Fusión ponderada convexa: Factorización matricial latente (TruncatedSVD) + Similitud semántica de catálogo por NLP (TF-IDF de unigramas y bigramas).
-- Política de Fallback de Cold-Start con 0.0% de fallos para nuevos usuarios o SKUs.
+4. 🛒 RECOMENDADOR HÍBRIDO DUAL
+• Fusión convexa: Factorización matricial SVD + Similitud NLP (TF-IDF).
+• Política Cold-Start 0.0% fallos con fallback bayesiano.
 
-5. 💼 ANALÍTICA PRESCRIPTIVA: OPTIMIZADOR DE PRESUPUESTO
-- Más allá de predecir: formulación de la campaña de retención como un Problema de la Mochila 0-1 (Knapsack) resuelto por Programación Lineal Entera (ILP).
-- En el benchmark: de 50 cuentas en riesgo, seleccionamos exactamente las 22 que maximizan el retorno neto con un ROI proyectado de 5.8x.
+5. 💼 ANALÍTICA PRESCRIPTIVA (KNAPSACK ILP)
+• Optimización de retención como Problema de la Mochila 0-1 con Programación Lineal Entera.
+• ROI proyectado de 5.83x maximizando presupuesto acotado.
 
-⚙️ ARQUITECTURA MLOps & ESTÁNDARES PRODUCTIVOS:
-⚡ Microservicio asíncrono en FastAPI (patrón Lifespan, tipado Pydantic v2, latencia P99 < 25 ms).
-🎨 Cockpit interactivo en Streamlit con visualizaciones 3D WebGL y exportación vectorial 4x en SVG / 300 DPI.
-🧪 Suite automatizada con pytest: 21 de 21 tests pasando (100% cobertura en esquemas, modelos, APIs y contrastes).
-📦 Contenedores reproducibles con Docker y Docker Compose.
+⚙️ ARQUITECTURA MLOps & PRODUCCIÓN:
+⚡ FastAPI asíncrono (Lifespan, Pydantic v2, latencia P99 < 25 ms).
+🎨 Dashboard Streamlit interactivo con WebGL y SVG 4x / 300 DPI.
+🧪 Suite pytest: 21/21 tests pasando (100% esquemas, modelos y APIs).
+📦 Despliegue con Docker y Docker Compose.
 
-Todo el código, modelos serializados (.joblib / .parquet), el manual formal de Rigor Metodológico y la Guía Maestra de Autoaprendizaje están abiertos para la comunidad:
+Todo el código, modelos serializados (.joblib / .parquet) y guías están abiertos:
+🔗 Repo: https://github.com/GuillenConcepcion/AI-Driven-Customer-Insights-Recommendation-Engine
+📖 Guías: AUTOAPRENDIZAJE.md & RIGOR_METODOLOGICO.md
+⚡ Demo en 10s: python scripts/demo_quickstart.py
 
-🔗 Repositorio GitHub: https://github.com/GuillenConcepcion/AI-Driven-Customer-Insights-Recommendation-Engine
-📖 Documentación y Guía Maestra: AUTOAPRENDIZAJE.md & RIGOR_METODOLOGICO.md
-⚡ Demo en 10 segundos: python scripts/demo_quickstart.py
+¿Cómo tratas la asimetría transaccional antes del clustering? ¡Te leo en comentarios! 👇
 
-¿Cómo gestionas en tu equipo la asimetría de variables transaccionales antes de clustering? ¿Combinas filtrado colaborativo con optimización prescriptiva de presupuesto? ¡Me encantaría leer tus impresiones en los comentarios! 👇
-
-#DataScience #MachineLearning #MLOps #CustomerLifetimeValue #RecommendationSystems #Python #FastAPI #Streamlit #Docker #ArtificialIntelligence #CloudNative #Leadership
+#DataScience #MachineLearning #MLOps #CLV #FastAPI #Streamlit #Docker #Python #AI
 ```
 
 ### 🖼️ Carrusel de Imágenes Recomendado para LinkedIn:

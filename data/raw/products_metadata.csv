@@ -1,0 +1,251 @@
+asin,title,category,brand,price,sales_rank
+B0001001,ApexTech Ultra HD 4K Action Camera,Electronics,ApexTech,20.63,18124
+B0001002,CyberPro Noise Cancelling Wireless Headphones,Electronics,CyberPro,65.22,48365
+B0001003,ApexTech Portable Bluetooth Speaker Pro,Electronics,ApexTech,167.26,35841
+B0001004,ApexTech Smart Home Security Cam,Electronics,ApexTech,147.86,2182
+B0001005,AcuSound Fast Wireless Charging Stand,Electronics,AcuSound,36.08,15347
+B0001006,TitanAudio High-Speed HDMI 2.1 Cable,Electronics,TitanAudio,150.45,36881
+B0001007,CyberPro Multi-Port USB-C Hub Adapter,Electronics,CyberPro,176.1,46062
+B0001008,TitanAudio True Wireless Earbuds with ANC,Electronics,TitanAudio,109.39,29539
+B0001009,Vanguard Digital Voice Recorder,Electronics,Vanguard,77.59,525
+B0001010,Chronos Power Bank 20000mAh PD Fast Charge,Electronics,Chronos,172.08,22398
+B0001011,Lumina Ergonomic Mechanical Keyboard RGB,Computers & Accessories,Lumina,49.98,22159
+B0001012,ApexTech Precision Wireless Gaming Mouse,Computers & Accessories,ApexTech,35.87,6438
+B0001013,NexusWare USB-C Dual 4K Monitor Dock,Computers & Accessories,NexusWare,205.69,39665
+B0001014,Lumina High-Performance 2TB NVMe SSD,Computers & Accessories,Lumina,196.6,47923
+B0001015,PrimeWave Curved Ultrawide Gaming Monitor,Computers & Accessories,PrimeWave,135.65,24907
+B0001016,ApexTech Laptop Cooling Pad with 5 Fans,Computers & Accessories,ApexTech,139.21,41298
+B0001017,Vanguard Webcam 1080p with Dual Stereo Mics,Computers & Accessories,Vanguard,214.23,23800
+B0001018,Vanguard Adjustable Aluminum Laptop Stand,Computers & Accessories,Vanguard,58.26,4658
+B0001019,AcuSound Wi-Fi 6E Dual-Band PCIe Card,Computers & Accessories,AcuSound,163.78,19065
+B0001020,ApexTech Durable Braided DisplayPort Cable,Computers & Accessories,ApexTech,207.45,6719
+B0001021,OmniGear Wireless Controller for PC and Console,Video Games,OmniGear,77.54,41760
+B0001022,NexusWare Surround Sound Gaming Headset,Video Games,NexusWare,51.6,23383
+B0001023,CyberPro Arcade Fighting Stick Joystick,Video Games,CyberPro,165.79,46094
+B0001024,ApexTech MicroSDXC Card 512GB High Speed,Video Games,ApexTech,152.05,11315
+B0001025,TitanAudio RGB Gaming Mouse Pad Extended,Video Games,TitanAudio,179.05,10808
+B0001026,PrimeWave Racing Steering Wheel with Pedals,Video Games,PrimeWave,100.38,42043
+B0001027,TitanAudio Console Vertical Cooling Stand,Video Games,TitanAudio,64.41,21352
+B0001028,AcuSound Custom Silicone Controller Grip,Video Games,AcuSound,66.54,2203
+B0001029,NexusWare VR Gaming Headset Carry Case,Video Games,NexusWare,105.26,4437
+B0001030,CyberPro Analog Stick Precision Rings Pack,Video Games,CyberPro,220.46,37270
+B0001031,NexusWare Cardioid Condenser Studio Microphone,Musical Instruments,NexusWare,62.84,32817
+B0001032,OmniGear Professional Audio Interface USB,Musical Instruments,OmniGear,214.05,42229
+B0001033,PrimeWave Digital Electric Keyboard 61 Keys,Musical Instruments,PrimeWave,47.15,9250
+B0001034,CyberPro Acoustic Guitar Starter Pack,Musical Instruments,CyberPro,182.62,35422
+B0001035,Lumina Over-Ear Studio Monitor Headphones,Musical Instruments,Lumina,183.08,28177
+B0001036,Vanguard Adjustable Heavy-Duty Boom Arm,Musical Instruments,Vanguard,104.87,14473
+B0001037,Chronos Studio Monitor Isolation Pads,Musical Instruments,Chronos,129.64,6057
+B0001038,AcuSound Guitar Digital Tuner and Capo Kit,Musical Instruments,AcuSound,208.75,10116
+B0001039,Chronos XLR Balanced Audio Cable 10ft,Musical Instruments,Chronos,193.22,27766
+B0001040,Vanguard MIDI Controller Keyboard 25-Key,Musical Instruments,Vanguard,29.29,25109
+B0001041,Vanguard Programmable Smart Coffee Maker,Home & Kitchen,Vanguard,239.13,34776
+B0001042,Lumina Stainless Steel Electric Gooseneck Kettle,Home & Kitchen,Lumina,233.49,852
+B0001043,ApexTech Air Fryer XL 5.8 Quart,Home & Kitchen,ApexTech,168.38,35290
+B0001044,Lumina Digital Precision Food Kitchen Scale,Home & Kitchen,Lumina,187.93,22393
+B0001045,ApexTech Personal Countertop Blender,Home & Kitchen,ApexTech,81.04,10465
+B0001046,PrimeWave Automatic Touchless Trash Can,Home & Kitchen,PrimeWave,15.73,47423
+B0001047,Lumina Cast Iron Enameled Dutch Oven,Home & Kitchen,Lumina,233.67,11808
+B0001048,TitanAudio HEPA Air Purifier for Large Rooms,Home & Kitchen,TitanAudio,220.34,41079
+B0001049,Lumina Smart LED Under Cabinet Lighting,Home & Kitchen,Lumina,204.38,33370
+B0001050,Vanguard Stainless Steel Chef Knife 8-Inch,Home & Kitchen,Vanguard,59.75,24604
+B0001051,Chronos Designing Machine Learning Systems,Books,Chronos,136.36,34857
+B0001052,AcuSound Hands-On Machine Learning with Scikit-Learn,Books,AcuSound,149.76,32121
+B0001053,AcuSound Designing Data-Intensive Applications,Books,AcuSound,40.17,23888
+B0001054,Lumina Clean Code and Architecture Handbook,Books,Lumina,68.88,15885
+B0001055,Vanguard Python for Data Analysis and Science,Books,Vanguard,228.06,5713
+B0001056,PrimeWave Building Cloud-Native MLOps Pipelines,Books,PrimeWave,198.61,49946
+B0001057,TitanAudio Deep Learning with PyTorch in Action,Books,TitanAudio,187.31,8514
+B0001058,PrimeWave System Design Interview Insider Guide,Books,PrimeWave,228.04,10921
+B0001059,Lumina Modern Microservices with Docker,Books,Lumina,133.73,39853
+B0001060,OmniGear Practical Time Series Analysis & Forecasting,Books,OmniGear,231.98,35443
+B0001061,CyberPro Sonic Electric Toothbrush with UV Sanitizer,Health & Personal Care,CyberPro,175.41,26248
+B0001062,NexusWare Deep Tissue Percussion Massage Gun,Health & Personal Care,NexusWare,113.57,34019
+B0001063,PrimeWave Smart Digital Body Fat Bathroom Scale,Health & Personal Care,PrimeWave,42.23,14825
+B0001064,ApexTech Aromatherapy Essential Oil Diffuser,Health & Personal Care,ApexTech,91.07,38655
+B0001065,TitanAudio Infrared Non-Contact Forehead Thermometer,Health & Personal Care,TitanAudio,66.78,14532
+B0001066,AcuSound Cordless Water Flosser Dental Cleaner,Health & Personal Care,AcuSound,30.97,41459
+B0001067,AcuSound Ergonomic Memory Foam Lumbar Support Cushion,Health & Personal Care,AcuSound,66.51,2158
+B0001068,NexusWare Blue Light Blocking Computer Glasses,Health & Personal Care,NexusWare,30.94,15697
+B0001069,Lumina Rechargeable Hot Compress Eye Mask,Health & Personal Care,Lumina,165.52,14140
+B0001070,TitanAudio Portable UV Phone & Tool Sanitizer Box,Health & Personal Care,TitanAudio,44.77,37523
+B0001071,CyberPro HEPA Air Purifier for Large Rooms Plus,Home & Kitchen,CyberPro,191.54,26777
+B0001072,ApexTech Precision Wireless Gaming Mouse Plus,Computers & Accessories,ApexTech,163.27,23319
+B0001073,PrimeWave Studio Monitor Isolation Pads Plus,Musical Instruments,PrimeWave,209.36,3650
+B0001074,AcuSound Hands-On Machine Learning with Scikit-Learn Plus,Books,AcuSound,105.59,22336
+B0001075,CyberPro Deep Tissue Percussion Massage Gun Plus,Health & Personal Care,CyberPro,58.11,35246
+B0001076,OmniGear Digital Electric Keyboard 61 Keys Plus,Musical Instruments,OmniGear,56.28,30418
+B0001077,PrimeWave Precision Wireless Gaming Mouse Plus,Computers & Accessories,PrimeWave,196.81,36166
+B0001078,TitanAudio Ultra HD 4K Action Camera Plus,Electronics,TitanAudio,203.11,6212
+B0001079,Chronos Aromatherapy Essential Oil Diffuser Plus,Health & Personal Care,Chronos,106.44,31646
+B0001080,AcuSound Webcam 1080p with Dual Stereo Mics Plus,Computers & Accessories,AcuSound,52.04,241
+B0001081,PrimeWave Over-Ear Studio Monitor Headphones Plus,Musical Instruments,PrimeWave,79.18,45751
+B0001082,PrimeWave Modern Microservices with Docker Plus,Books,PrimeWave,49.83,19545
+B0001083,Vanguard Ergonomic Mechanical Keyboard RGB Plus,Computers & Accessories,Vanguard,180.54,4094
+B0001084,AcuSound Building Cloud-Native MLOps Pipelines Plus,Books,AcuSound,26.28,31346
+B0001085,Chronos Smart LED Under Cabinet Lighting Plus,Home & Kitchen,Chronos,27.8,33381
+B0001086,ApexTech Portable Bluetooth Speaker Pro Plus,Electronics,ApexTech,148.88,44350
+B0001087,OmniGear Aromatherapy Essential Oil Diffuser Plus,Health & Personal Care,OmniGear,41.97,37434
+B0001088,Vanguard Durable Braided DisplayPort Cable Plus,Computers & Accessories,Vanguard,23.94,5472
+B0001089,Vanguard MIDI Controller Keyboard 25-Key Plus,Musical Instruments,Vanguard,132.63,17189
+B0001090,CyberPro Laptop Cooling Pad with 5 Fans Plus,Computers & Accessories,CyberPro,74.76,8677
+B0001091,PrimeWave Python for Data Analysis and Science Plus,Books,PrimeWave,86.14,49374
+B0001092,PrimeWave Ultra HD 4K Action Camera Plus,Electronics,PrimeWave,154.76,36996
+B0001093,TitanAudio Noise Cancelling Wireless Headphones Plus,Electronics,TitanAudio,62.96,17480
+B0001094,ApexTech Laptop Cooling Pad with 5 Fans Plus,Computers & Accessories,ApexTech,212.84,24317
+B0001095,PrimeWave Arcade Fighting Stick Joystick Plus,Video Games,PrimeWave,202.59,46207
+B0001096,TitanAudio Analog Stick Precision Rings Pack Plus,Video Games,TitanAudio,16.76,36446
+B0001097,Chronos Surround Sound Gaming Headset Plus,Video Games,Chronos,74.5,7114
+B0001098,Chronos Modern Microservices with Docker Plus,Books,Chronos,76.28,39738
+B0001099,CyberPro Laptop Cooling Pad with 5 Fans Plus,Computers & Accessories,CyberPro,169.69,17400
+B0001100,Lumina HEPA Air Purifier for Large Rooms Plus,Home & Kitchen,Lumina,218.7,3429
+B0001101,Lumina Multi-Port USB-C Hub Adapter Plus,Electronics,Lumina,24.92,21959
+B0001102,Lumina Smart Digital Body Fat Bathroom Scale Plus,Health & Personal Care,Lumina,51.36,29056
+B0001103,TitanAudio Cast Iron Enameled Dutch Oven Plus,Home & Kitchen,TitanAudio,17.18,5031
+B0001104,TitanAudio Designing Data-Intensive Applications Plus,Books,TitanAudio,23.11,24296
+B0001105,Chronos Smart LED Under Cabinet Lighting Plus,Home & Kitchen,Chronos,111.7,2841
+B0001106,AcuSound Racing Steering Wheel with Pedals Plus,Video Games,AcuSound,217.26,13867
+B0001107,ApexTech Clean Code and Architecture Handbook Plus,Books,ApexTech,94.58,36792
+B0001108,Vanguard Ergonomic Memory Foam Lumbar Support Cushion Plus,Health & Personal Care,Vanguard,183.63,15614
+B0001109,Chronos Smart Digital Body Fat Bathroom Scale Plus,Health & Personal Care,Chronos,213.32,1724
+B0001110,OmniGear Laptop Cooling Pad with 5 Fans Plus,Computers & Accessories,OmniGear,195.5,48272
+B0001111,Lumina Aromatherapy Essential Oil Diffuser Plus,Health & Personal Care,Lumina,50.82,46058
+B0001112,AcuSound Multi-Port USB-C Hub Adapter Plus,Electronics,AcuSound,208.18,14677
+B0001113,NexusWare Adjustable Aluminum Laptop Stand Plus,Computers & Accessories,NexusWare,83.67,15015
+B0001114,CyberPro Ergonomic Mechanical Keyboard RGB Plus,Computers & Accessories,CyberPro,104.65,18358
+B0001115,Lumina Deep Tissue Percussion Massage Gun Plus,Health & Personal Care,Lumina,94.01,33484
+B0001116,NexusWare XLR Balanced Audio Cable 10ft Plus,Musical Instruments,NexusWare,226.33,7659
+B0001117,Vanguard Arcade Fighting Stick Joystick Plus,Video Games,Vanguard,231.57,17497
+B0001118,Vanguard Noise Cancelling Wireless Headphones Plus,Electronics,Vanguard,112.78,47845
+B0001119,OmniGear Cordless Water Flosser Dental Cleaner Plus,Health & Personal Care,OmniGear,151.4,33616
+B0001120,Vanguard Multi-Port USB-C Hub Adapter Plus,Electronics,Vanguard,57.77,3008
+B0001121,AcuSound Deep Learning with PyTorch in Action Plus,Books,AcuSound,131.98,35387
+B0001122,NexusWare Clean Code and Architecture Handbook Plus,Books,NexusWare,112.04,43631
+B0001123,NexusWare Analog Stick Precision Rings Pack Plus,Video Games,NexusWare,164.26,8267
+B0001124,TitanAudio Python for Data Analysis and Science Plus,Books,TitanAudio,84.59,26864
+B0001125,Lumina Console Vertical Cooling Stand Plus,Video Games,Lumina,139.74,12672
+B0001126,Chronos Studio Monitor Isolation Pads Plus,Musical Instruments,Chronos,153.49,19823
+B0001127,AcuSound XLR Balanced Audio Cable 10ft Plus,Musical Instruments,AcuSound,83.37,13874
+B0001128,Vanguard MIDI Controller Keyboard 25-Key Plus,Musical Instruments,Vanguard,162.31,30573
+B0001129,CyberPro Guitar Digital Tuner and Capo Kit Plus,Musical Instruments,CyberPro,130.01,48331
+B0001130,Lumina Precision Wireless Gaming Mouse Plus,Computers & Accessories,Lumina,130.98,41580
+B0001131,ApexTech Automatic Touchless Trash Can Plus,Home & Kitchen,ApexTech,199.15,49326
+B0001132,CyberPro Curved Ultrawide Gaming Monitor Plus,Computers & Accessories,CyberPro,196.48,9756
+B0001133,CyberPro Ultra HD 4K Action Camera Plus,Electronics,CyberPro,236.39,40160
+B0001134,PrimeWave Deep Tissue Percussion Massage Gun Plus,Health & Personal Care,PrimeWave,108.25,41372
+B0001135,OmniGear Digital Precision Food Kitchen Scale Plus,Home & Kitchen,OmniGear,126.23,16089
+B0001136,ApexTech Ergonomic Mechanical Keyboard RGB Plus,Computers & Accessories,ApexTech,190.14,14441
+B0001137,PrimeWave Wi-Fi 6E Dual-Band PCIe Card Plus,Computers & Accessories,PrimeWave,26.3,16431
+B0001138,PrimeWave Deep Tissue Percussion Massage Gun Plus,Health & Personal Care,PrimeWave,45.0,30550
+B0001139,TitanAudio Modern Microservices with Docker Plus,Books,TitanAudio,148.98,49596
+B0001140,TitanAudio MIDI Controller Keyboard 25-Key Plus,Musical Instruments,TitanAudio,111.02,36005
+B0001141,PrimeWave Digital Electric Keyboard 61 Keys Plus,Musical Instruments,PrimeWave,116.27,49368
+B0001142,TitanAudio Curved Ultrawide Gaming Monitor Plus,Computers & Accessories,TitanAudio,124.03,15779
+B0001143,ApexTech Custom Silicone Controller Grip Plus,Video Games,ApexTech,175.55,15467
+B0001144,NexusWare Racing Steering Wheel with Pedals Plus,Video Games,NexusWare,215.93,5380
+B0001145,CyberPro USB-C Dual 4K Monitor Dock Plus,Computers & Accessories,CyberPro,101.18,10114
+B0001146,ApexTech Clean Code and Architecture Handbook Plus,Books,ApexTech,108.35,21784
+B0001147,OmniGear HEPA Air Purifier for Large Rooms Plus,Home & Kitchen,OmniGear,29.01,27634
+B0001148,AcuSound MIDI Controller Keyboard 25-Key Plus,Musical Instruments,AcuSound,207.76,37828
+B0001149,AcuSound Guitar Digital Tuner and Capo Kit Plus,Musical Instruments,AcuSound,227.12,19669
+B0001150,OmniGear Ergonomic Memory Foam Lumbar Support Cushion Plus,Health & Personal Care,OmniGear,136.1,48244
+B0001151,CyberPro Stainless Steel Chef Knife 8-Inch Plus,Home & Kitchen,CyberPro,124.85,17987
+B0001152,AcuSound Guitar Digital Tuner and Capo Kit Plus,Musical Instruments,AcuSound,102.49,43935
+B0001153,Chronos Deep Learning with PyTorch in Action Plus,Books,Chronos,204.11,8464
+B0001154,AcuSound Smart LED Under Cabinet Lighting Plus,Home & Kitchen,AcuSound,219.06,38890
+B0001155,ApexTech Programmable Smart Coffee Maker Plus,Home & Kitchen,ApexTech,159.62,8993
+B0001156,Chronos Blue Light Blocking Computer Glasses Plus,Health & Personal Care,Chronos,26.31,24944
+B0001157,PrimeWave MicroSDXC Card 512GB High Speed Plus,Video Games,PrimeWave,88.54,49987
+B0001158,OmniGear Over-Ear Studio Monitor Headphones Plus,Musical Instruments,OmniGear,71.76,5467
+B0001159,TitanAudio Cardioid Condenser Studio Microphone Plus,Musical Instruments,TitanAudio,26.72,23035
+B0001160,AcuSound Precision Wireless Gaming Mouse Plus,Computers & Accessories,AcuSound,184.7,16305
+B0001161,Vanguard Ergonomic Mechanical Keyboard RGB Plus,Computers & Accessories,Vanguard,49.29,8372
+B0001162,Vanguard Professional Audio Interface USB Plus,Musical Instruments,Vanguard,228.25,30576
+B0001163,NexusWare Python for Data Analysis and Science Plus,Books,NexusWare,52.75,39896
+B0001164,Chronos Hands-On Machine Learning with Scikit-Learn Plus,Books,Chronos,232.06,7184
+B0001165,Lumina Programmable Smart Coffee Maker Plus,Home & Kitchen,Lumina,144.55,24696
+B0001166,ApexTech Acoustic Guitar Starter Pack Plus,Musical Instruments,ApexTech,148.22,41206
+B0001167,Lumina Precision Wireless Gaming Mouse Plus,Computers & Accessories,Lumina,206.32,39448
+B0001168,Vanguard Deep Tissue Percussion Massage Gun Plus,Health & Personal Care,Vanguard,191.09,22854
+B0001169,NexusWare Cast Iron Enameled Dutch Oven Plus,Home & Kitchen,NexusWare,30.52,42537
+B0001170,OmniGear Wireless Controller for PC and Console Plus,Video Games,OmniGear,200.02,7016
+B0001171,PrimeWave Adjustable Heavy-Duty Boom Arm Plus,Musical Instruments,PrimeWave,174.14,28640
+B0001172,Lumina Wi-Fi 6E Dual-Band PCIe Card Plus,Computers & Accessories,Lumina,153.58,35369
+B0001173,PrimeWave Blue Light Blocking Computer Glasses Plus,Health & Personal Care,PrimeWave,113.0,48008
+B0001174,NexusWare Personal Countertop Blender Plus,Home & Kitchen,NexusWare,206.64,5779
+B0001175,CyberPro Custom Silicone Controller Grip Plus,Video Games,CyberPro,183.86,37445
+B0001176,NexusWare Cast Iron Enameled Dutch Oven Plus,Home & Kitchen,NexusWare,21.46,21400
+B0001177,CyberPro Adjustable Aluminum Laptop Stand Plus,Computers & Accessories,CyberPro,94.84,17031
+B0001178,Vanguard RGB Gaming Mouse Pad Extended Plus,Video Games,Vanguard,172.77,18205
+B0001179,TitanAudio Programmable Smart Coffee Maker Plus,Home & Kitchen,TitanAudio,228.31,5710
+B0001180,PrimeWave Webcam 1080p with Dual Stereo Mics Plus,Computers & Accessories,PrimeWave,139.91,15849
+B0001181,PrimeWave System Design Interview Insider Guide Plus,Books,PrimeWave,115.84,1230
+B0001182,CyberPro Fast Wireless Charging Stand Plus,Electronics,CyberPro,105.99,16045
+B0001183,NexusWare Analog Stick Precision Rings Pack Plus,Video Games,NexusWare,121.48,34894
+B0001184,TitanAudio Console Vertical Cooling Stand Plus,Video Games,TitanAudio,89.43,46162
+B0001185,Lumina Over-Ear Studio Monitor Headphones Plus,Musical Instruments,Lumina,71.57,8007
+B0001186,NexusWare Clean Code and Architecture Handbook Plus,Books,NexusWare,41.9,35218
+B0001187,CyberPro Smart Digital Body Fat Bathroom Scale Plus,Health & Personal Care,CyberPro,63.69,31832
+B0001188,TitanAudio Analog Stick Precision Rings Pack Plus,Video Games,TitanAudio,149.28,6688
+B0001189,Lumina Aromatherapy Essential Oil Diffuser Plus,Health & Personal Care,Lumina,66.18,11859
+B0001190,TitanAudio Wireless Controller for PC and Console Plus,Video Games,TitanAudio,43.48,3082
+B0001191,Lumina Digital Voice Recorder Plus,Electronics,Lumina,171.92,8375
+B0001192,ApexTech System Design Interview Insider Guide Plus,Books,ApexTech,211.36,37721
+B0001193,PrimeWave Custom Silicone Controller Grip Plus,Video Games,PrimeWave,114.11,12182
+B0001194,PrimeWave Fast Wireless Charging Stand Plus,Electronics,PrimeWave,40.67,4382
+B0001195,ApexTech Guitar Digital Tuner and Capo Kit Plus,Musical Instruments,ApexTech,144.83,45087
+B0001196,Chronos Portable Bluetooth Speaker Pro Plus,Electronics,Chronos,197.51,20012
+B0001197,ApexTech Smart Home Security Cam Plus,Electronics,ApexTech,140.57,27374
+B0001198,Vanguard Stainless Steel Chef Knife 8-Inch Plus,Home & Kitchen,Vanguard,65.78,34347
+B0001199,PrimeWave Guitar Digital Tuner and Capo Kit Plus,Musical Instruments,PrimeWave,81.9,38669
+B0001200,Vanguard Over-Ear Studio Monitor Headphones Plus,Musical Instruments,Vanguard,154.73,40052
+B0001201,CyberPro Hands-On Machine Learning with Scikit-Learn Plus,Books,CyberPro,155.74,17443
+B0001202,Chronos Hands-On Machine Learning with Scikit-Learn Plus,Books,Chronos,68.97,36275
+B0001203,AcuSound Portable Bluetooth Speaker Pro Plus,Electronics,AcuSound,106.92,45278
+B0001204,Lumina HEPA Air Purifier for Large Rooms Plus,Home & Kitchen,Lumina,22.34,18981
+B0001205,PrimeWave Python for Data Analysis and Science Plus,Books,PrimeWave,31.02,15397
+B0001206,CyberPro Analog Stick Precision Rings Pack Plus,Video Games,CyberPro,110.66,35788
+B0001207,Lumina USB-C Dual 4K Monitor Dock Plus,Computers & Accessories,Lumina,200.99,4779
+B0001208,Lumina Portable Bluetooth Speaker Pro Plus,Electronics,Lumina,148.88,37403
+B0001209,ApexTech Custom Silicone Controller Grip Plus,Video Games,ApexTech,120.46,20028
+B0001210,Lumina Deep Learning with PyTorch in Action Plus,Books,Lumina,127.61,32461
+B0001211,Vanguard Professional Audio Interface USB Plus,Musical Instruments,Vanguard,23.97,28413
+B0001212,Vanguard Building Cloud-Native MLOps Pipelines Plus,Books,Vanguard,71.33,6085
+B0001213,Vanguard Durable Braided DisplayPort Cable Plus,Computers & Accessories,Vanguard,228.93,44158
+B0001214,Vanguard Infrared Non-Contact Forehead Thermometer Plus,Health & Personal Care,Vanguard,24.05,49662
+B0001215,TitanAudio Adjustable Aluminum Laptop Stand Plus,Computers & Accessories,TitanAudio,161.59,18329
+B0001216,OmniGear Durable Braided DisplayPort Cable Plus,Computers & Accessories,OmniGear,157.83,32325
+B0001217,NexusWare True Wireless Earbuds with ANC Plus,Electronics,NexusWare,106.88,21140
+B0001218,Chronos Hands-On Machine Learning with Scikit-Learn Plus,Books,Chronos,89.21,45560
+B0001219,OmniGear Over-Ear Studio Monitor Headphones Plus,Musical Instruments,OmniGear,198.05,36151
+B0001220,ApexTech True Wireless Earbuds with ANC Plus,Electronics,ApexTech,85.77,21286
+B0001221,TitanAudio Multi-Port USB-C Hub Adapter Plus,Electronics,TitanAudio,200.61,175
+B0001222,PrimeWave Modern Microservices with Docker Plus,Books,PrimeWave,107.98,12393
+B0001223,Vanguard Automatic Touchless Trash Can Plus,Home & Kitchen,Vanguard,185.2,41086
+B0001224,CyberPro Cardioid Condenser Studio Microphone Plus,Musical Instruments,CyberPro,75.09,8686
+B0001225,PrimeWave Custom Silicone Controller Grip Plus,Video Games,PrimeWave,42.32,41389
+B0001226,Chronos Digital Precision Food Kitchen Scale Plus,Home & Kitchen,Chronos,84.92,996
+B0001227,ApexTech Cast Iron Enameled Dutch Oven Plus,Home & Kitchen,ApexTech,65.56,7535
+B0001228,Chronos Professional Audio Interface USB Plus,Musical Instruments,Chronos,127.13,47063
+B0001229,Lumina VR Gaming Headset Carry Case Plus,Video Games,Lumina,108.49,31721
+B0001230,PrimeWave Acoustic Guitar Starter Pack Plus,Musical Instruments,PrimeWave,139.03,25238
+B0001231,TitanAudio Durable Braided DisplayPort Cable Plus,Computers & Accessories,TitanAudio,182.92,9046
+B0001232,Lumina Deep Tissue Percussion Massage Gun Plus,Health & Personal Care,Lumina,188.85,27293
+B0001233,Lumina VR Gaming Headset Carry Case Plus,Video Games,Lumina,199.62,18636
+B0001234,Vanguard Python for Data Analysis and Science Plus,Books,Vanguard,145.48,43349
+B0001235,PrimeWave Digital Electric Keyboard 61 Keys Plus,Musical Instruments,PrimeWave,136.18,22718
+B0001236,TitanAudio VR Gaming Headset Carry Case Plus,Video Games,TitanAudio,99.87,21188
+B0001237,CyberPro Aromatherapy Essential Oil Diffuser Plus,Health & Personal Care,CyberPro,143.65,15406
+B0001238,AcuSound Ergonomic Memory Foam Lumbar Support Cushion Plus,Health & Personal Care,AcuSound,86.59,31096
+B0001239,OmniGear Deep Learning with PyTorch in Action Plus,Books,OmniGear,237.39,42830
+B0001240,AcuSound Adjustable Aluminum Laptop Stand Plus,Computers & Accessories,AcuSound,43.41,38778
+B0001241,PrimeWave Surround Sound Gaming Headset Plus,Video Games,PrimeWave,37.44,30045
+B0001242,OmniGear Portable Bluetooth Speaker Pro Plus,Electronics,OmniGear,210.96,10216
+B0001243,Lumina True Wireless Earbuds with ANC Plus,Electronics,Lumina,91.18,45497
+B0001244,NexusWare Professional Audio Interface USB Plus,Musical Instruments,NexusWare,206.78,35071
+B0001245,PrimeWave Adjustable Heavy-Duty Boom Arm Plus,Musical Instruments,PrimeWave,211.29,2452
+B0001246,CyberPro Stainless Steel Electric Gooseneck Kettle Plus,Home & Kitchen,CyberPro,157.01,18933
+B0001247,OmniGear Precision Wireless Gaming Mouse Plus,Computers & Accessories,OmniGear,235.13,49931
+B0001248,PrimeWave Hands-On Machine Learning with Scikit-Learn Plus,Books,PrimeWave,52.43,19725
+B0001249,NexusWare Ultra HD 4K Action Camera Plus,Electronics,NexusWare,194.13,19326
+B0001250,OmniGear Racing Steering Wheel with Pedals Plus,Video Games,OmniGear,47.75,34910

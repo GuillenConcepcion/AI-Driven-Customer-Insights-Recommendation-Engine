@@ -1,0 +1,31 @@
+# ==============================================================================
+# Enterprise Machine Learning & Decision Engine - Production Dependencies
+# Author: Guillen Concepción (Senior Data Scientist & MLOps Engineer)
+# Pinned for strict reproducibility across Cloud-Native environments
+# ==============================================================================
+
+# Core Data Science & Machine Learning
+pandas==2.3.3
+numpy==2.1.3
+scipy==1.18.0
+scikit-learn==1.9.0
+joblib==1.5.3
+
+# API Microservice & Serving
+fastapi==0.115.14
+uvicorn==0.34.3
+pydantic==2.10.6
+
+# Interactive Dashboard & Ultra-HD Visualizations
+streamlit==1.52.2
+plotly==5.24.1
+matplotlib==3.11.0
+seaborn==0.13.2
+
+# Ingestion & Streaming Utilities
+requests==2.34.2
+tqdm==4.67.1
+
+# Quality Gates & Testing Suite
+pytest==8.4.1
+httpx==0.28.1
